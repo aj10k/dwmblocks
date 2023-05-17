@@ -1,5 +1,6 @@
 # dwmblocks
 
+A fork from LukeSmith/dwmblocks with a few adjustments
 Modular status bar for dwm written in c.
 
 # Modifying blocks
