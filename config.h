@@ -7,7 +7,7 @@ static const Block blocks[] = {
 	{"",	"sb-volume",	0,	10},
 	{"",	"sb-clock",		60,	1},
 	{"",	"sb-internet",	5,	4},
-	{"",	"sb-brightness",	0,	10},
+	{"",	"sb-brightness",	0,	11},
 	/* {"",	"sb-memory",	10,	14}, */
 	/* {"",	"sb-cpu",		10,	18}, */
 	/* {"",	"sb-tasks",	10,	26}, */
